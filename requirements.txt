@@ -1,0 +1,7 @@
+numpy==1.24.3
+pandas==2.0.2
+scikit-learn==1.2.2
+openai==0.27.8
+tiktoken==0.4.0
+python-dateutil
+streamlit
